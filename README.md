@@ -1,4 +1,4 @@
-# wordpress_app
+# Krustylab Mobile App
 
 A new Flutter project.
 
