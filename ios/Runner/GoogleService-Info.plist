@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>92017921690-dj83qmu3fomvrbb2462phsdpaq0qspsn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.92017921690-dj83qmu3fomvrbb2462phsdpaq0qspsn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYgHLfTMWyURBEd1IFFxE0oxkWiXqbcpg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>92017921690</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.krustylab.mob</string>
+	<key>PROJECT_ID</key>
+	<string>krustylab-7dc72</string>
+	<key>STORAGE_BUCKET</key>
+	<string>krustylab-7dc72.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:92017921690:ios:2de1f9cef367404bc95923</string>
+</dict>
+</plist>

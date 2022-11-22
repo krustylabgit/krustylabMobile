@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "224464642800",
+    "project_id": "krustylabmobile-13d68",
+    "storage_bucket": "krustylabmobile-13d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224464642800:android:4ef538f63384c12cd51835",
+        "android_client_info": {
+          "package_name": "com.krustylab.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224464642800-0o8fpk55o1c3maac8ku44p5d144e4rq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Kgq3kw0XqxlKTroaHafE4jX8Bo77iDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224464642800-0o8fpk55o1c3maac8ku44p5d144e4rq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224464642800:android:9842a1011d75338cd51835",
+        "android_client_info": {
+          "package_name": "com.krustylab.mob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224464642800-0o8fpk55o1c3maac8ku44p5d144e4rq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Kgq3kw0XqxlKTroaHafE4jX8Bo77iDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224464642800-0o8fpk55o1c3maac8ku44p5d144e4rq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
